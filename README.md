@@ -1,5 +1,5 @@
 # Project 1: SQL + Business Analytics Case Study — Olist Retention & CLV
-
+**Live dashboard:** [Tableau Public](https://public.tableau.com/views/OlistE-CommerceRetentionAnalysis/OlistE-CommerceRepeat-PurchaseRetentionAnalysis_?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 **Data source:** Brazilian E-Commerce Public Dataset by Olist — real, anonymized commercial
 transaction data, 99,441 orders (2016–2018). Original source: Kaggle
 (kaggle.com/datasets/olistbr/brazilian-ecommerce). CSVs included here for convenience.
