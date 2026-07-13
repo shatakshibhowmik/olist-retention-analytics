@@ -1,0 +1,4 @@
+retention_action,threshold,precision_pct,recall_pct,customers_flagged_test_set
+Email nudge (near-zero cost),0.41,4.1,60,8429
+Discount code (moderate cost),0.53,5.1,30,3381
+VIP perk / outreach (high cost),0.635,6.0,10,974
